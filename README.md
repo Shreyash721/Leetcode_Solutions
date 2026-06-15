@@ -37,6 +37,7 @@
 | [0041-first-missing-positive](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0020-valid-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
