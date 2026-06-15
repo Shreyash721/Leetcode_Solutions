@@ -48,6 +48,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1929-concatenation-of-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Brainteaser
 |  |
 | ------- |
