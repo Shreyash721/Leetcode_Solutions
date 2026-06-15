@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0162-find-peak-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
