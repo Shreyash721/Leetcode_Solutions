@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
