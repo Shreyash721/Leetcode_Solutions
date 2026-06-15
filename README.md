@@ -65,6 +65,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
