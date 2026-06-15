@@ -57,6 +57,7 @@
 | [2643-row-with-maximum-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2942-find-words-containing-character](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
