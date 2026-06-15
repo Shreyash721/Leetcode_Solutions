@@ -54,6 +54,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
