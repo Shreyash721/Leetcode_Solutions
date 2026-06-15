@@ -38,6 +38,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
