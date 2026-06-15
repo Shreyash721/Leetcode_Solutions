@@ -44,6 +44,7 @@
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
