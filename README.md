@@ -92,6 +92,7 @@
 | [0283-move-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
 | ------- |
