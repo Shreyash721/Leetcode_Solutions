@@ -40,6 +40,7 @@
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
