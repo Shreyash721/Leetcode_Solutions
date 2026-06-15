@@ -1,6 +1,7 @@
 class Solution {
     public int fib(int n) {
-        int a=0;
+      
+        /*int a=0;
         int b=1;
         int c=0;
        if(n==1){
@@ -17,7 +18,15 @@ class Solution {
             System.out.print(c);
         }
         return c;
-       }
+       }*/
+    
+    if(n==0) return 0;
+    if(n==1) return 1;
+
+    return fib(n-1)+fib(n-2);
+
+
+
     }
 }
         
