@@ -79,6 +79,7 @@
 | [0292-nim-game](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0344-reverse-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Brainteaser
 |  |
 | ------- |
