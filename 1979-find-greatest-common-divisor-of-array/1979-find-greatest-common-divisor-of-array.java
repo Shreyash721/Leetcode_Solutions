@@ -1,15 +1,16 @@
 class Solution {
     public int findGCD(int[] nums) {
-        int hcf=1;
+        int hcf;
         Arrays.sort(nums);
         int a=nums[0];
         int b=nums[nums.length-1];
+        hcf=gcd(a,b);
 
-        for(int i=2;i<=a;i++){
-            if(a%i==0 && b%i==0){
-                hcf=i;
-            }
-        }
         return hcf;
+    }
+    public int gcd(int a, int b){
+        if(b==0) return a;
+        
+        return gcd(b,a%b);
     }
 }
