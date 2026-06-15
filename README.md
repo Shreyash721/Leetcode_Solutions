@@ -114,6 +114,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [2413-smallest-even-multiple](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
