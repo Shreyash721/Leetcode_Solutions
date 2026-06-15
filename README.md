@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0050-powx-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0027-remove-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
