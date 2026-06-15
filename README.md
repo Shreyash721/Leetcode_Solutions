@@ -148,6 +148,7 @@
 | [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [2942-find-words-containing-character](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
