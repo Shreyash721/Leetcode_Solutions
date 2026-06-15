@@ -43,6 +43,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Enumeration
 |  |
 | ------- |
