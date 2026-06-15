@@ -47,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
