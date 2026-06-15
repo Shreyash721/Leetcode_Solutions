@@ -165,6 +165,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
