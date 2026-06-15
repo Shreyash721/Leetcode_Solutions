@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0053-maximum-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
