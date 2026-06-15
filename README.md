@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Hash Table
 |  |
 | ------- |
