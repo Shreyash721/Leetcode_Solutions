@@ -93,6 +93,7 @@
 | [0342-power-of-four](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -212,4 +214,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
