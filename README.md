@@ -99,6 +99,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
