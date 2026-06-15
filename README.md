@@ -122,6 +122,7 @@
 | [2427-number-of-common-factors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
 | ------- |
