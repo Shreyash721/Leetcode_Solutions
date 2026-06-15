@@ -131,6 +131,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
