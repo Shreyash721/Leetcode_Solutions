@@ -77,6 +77,7 @@
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
