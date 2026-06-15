@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
