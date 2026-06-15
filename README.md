@@ -50,6 +50,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## String
 |  |
 | ------- |
