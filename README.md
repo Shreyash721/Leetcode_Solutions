@@ -115,6 +115,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
