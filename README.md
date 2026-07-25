@@ -68,6 +68,7 @@
 | [0001-two-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -148,6 +149,7 @@
 | [0027-remove-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0344-reverse-string) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
