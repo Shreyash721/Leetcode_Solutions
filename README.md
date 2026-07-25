@@ -297,4 +297,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
