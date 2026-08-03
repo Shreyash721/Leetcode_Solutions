@@ -19,6 +19,7 @@ class Solution {
         return c;
     }
 
+
     public ListNode reverse(ListNode head) {
         int mid = count(head) / 2;
         ListNode i = head;
@@ -28,7 +29,7 @@ class Solution {
             i = i.next;
              mid--;
          }
-         
+    
          ListNode newHead = i.next;
          i.next = null;
          
@@ -45,6 +46,8 @@ class Solution {
         return pre;
 
     }
+
+    
     public int pairSum(ListNode head) {
         int nodes=count(head);
         if(nodes==2) return head.val+head.next.val;
