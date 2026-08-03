@@ -166,6 +166,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -335,4 +337,5 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
