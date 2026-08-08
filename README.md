@@ -224,6 +224,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -367,4 +368,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
