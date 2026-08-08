@@ -196,6 +196,7 @@
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -372,4 +373,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
