@@ -390,4 +390,20 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
