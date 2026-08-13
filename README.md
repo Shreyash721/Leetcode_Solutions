@@ -44,6 +44,7 @@
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
@@ -238,6 +239,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -371,6 +373,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -385,6 +388,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
