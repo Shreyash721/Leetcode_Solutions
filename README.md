@@ -237,6 +237,7 @@
 | [0143-reorder-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## String Matching
 |  |
 | ------- |
@@ -420,5 +422,6 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
