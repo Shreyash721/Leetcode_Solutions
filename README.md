@@ -241,6 +241,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -416,10 +417,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -428,6 +431,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Queue
 |  |
