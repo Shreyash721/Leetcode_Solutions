@@ -18,12 +18,13 @@ class Solution {
 
         if(root==null) return false;
 
-        if(root.left==null && root.right==null){
+        if(root.right==null && root.left==null){
             return root.val==x;
-        } 
+        }
 
         x=x-root.val;
 
         return (hasPathSum(root.left,x)||hasPathSum(root.right,x));
+
     }
 }
