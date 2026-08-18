@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -451,4 +453,16 @@
 | [0225-implement-stack-using-queues](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
