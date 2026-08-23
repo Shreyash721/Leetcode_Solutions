@@ -130,6 +130,7 @@
 | [0013-roman-to-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -208,6 +209,7 @@
 | [0020-valid-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -302,6 +304,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -342,6 +345,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
