@@ -251,6 +251,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -432,6 +433,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -442,6 +444,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -462,6 +465,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 ## Queue
 |  |
