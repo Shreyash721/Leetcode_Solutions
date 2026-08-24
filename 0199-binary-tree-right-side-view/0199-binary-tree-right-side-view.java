@@ -15,7 +15,7 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        int ind=0;
+
         List<Integer> ans=new ArrayList<>();
         if(root==null) return ans;
 
@@ -41,7 +41,7 @@ class Solution {
             
             }
             ans.add(arr.get(arr.size() - 1));
-            ind++;
+      
         }
 
         return ans;
