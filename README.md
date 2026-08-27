@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0384-shuffle-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -146,6 +147,7 @@
 | [0292-nim-game](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -434,6 +436,7 @@
 | [0155-min-stack](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0384-shuffle-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -538,4 +541,8 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
