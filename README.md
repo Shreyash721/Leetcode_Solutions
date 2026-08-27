@@ -455,6 +455,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -499,6 +500,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -517,4 +519,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
