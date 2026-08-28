@@ -307,6 +307,7 @@
 | [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -468,6 +469,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -488,6 +490,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -525,6 +528,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -554,6 +558,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Randomized
 |  |
 | ------- |
@@ -566,4 +571,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
