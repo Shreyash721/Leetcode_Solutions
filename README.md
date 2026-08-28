@@ -464,6 +464,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -483,6 +484,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Queue
 |  |
 | ------- |
@@ -545,6 +548,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Randomized
 |  |
 | ------- |
