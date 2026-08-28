@@ -29,7 +29,7 @@ class quad{
     }
 }
 class Solution {
-    int maxSum;;
+    int maxSum;
     public int maxSumBST(TreeNode root) {
         maxSum=0;
         helper(root);
