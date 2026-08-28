@@ -74,6 +74,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2942-find-words-containing-character](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
@@ -99,6 +100,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 ## Binary Search
@@ -121,6 +123,7 @@
 | [0704-binary-search](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
