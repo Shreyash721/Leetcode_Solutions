@@ -476,6 +476,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -511,6 +512,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -536,6 +538,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Queue
