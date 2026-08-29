@@ -45,6 +45,7 @@
 | [0503-next-greater-element-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -97,6 +98,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -237,6 +239,7 @@
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0648-replace-words](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -435,6 +438,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0648-replace-words) |
 ## Monotonic Stack
 |  |
 | ------- |
