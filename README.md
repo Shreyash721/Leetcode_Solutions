@@ -95,6 +95,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -153,6 +154,7 @@
 | [0070-climbing-stairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
@@ -203,6 +205,7 @@
 | [0143-reorder-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0344-reverse-string) |
@@ -609,6 +612,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
