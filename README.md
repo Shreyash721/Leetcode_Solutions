@@ -38,6 +38,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0384-shuffle-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
@@ -129,6 +130,7 @@
 | [0162-find-peak-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -216,6 +218,7 @@
 | [0202-happy-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -353,6 +356,7 @@
 | [0136-single-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -588,6 +592,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -622,6 +627,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
