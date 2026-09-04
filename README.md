@@ -504,6 +504,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
@@ -528,6 +529,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -568,6 +570,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
@@ -601,6 +604,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
