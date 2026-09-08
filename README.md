@@ -199,6 +199,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
