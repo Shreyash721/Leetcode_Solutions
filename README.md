@@ -93,6 +93,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -366,6 +367,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Brainteaser
 |  |
 | ------- |
