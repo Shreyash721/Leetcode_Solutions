@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -264,6 +265,7 @@
 | [0022-generate-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -416,6 +418,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
