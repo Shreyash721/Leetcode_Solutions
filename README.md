@@ -70,6 +70,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -118,6 +119,7 @@
 | [0648-replace-words](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
@@ -146,6 +148,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -452,6 +455,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -674,6 +678,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Data Stream
 |  |
 | ------- |
