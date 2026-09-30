@@ -1,14 +1,10 @@
 class Solution {
-    public boolean searchMatrix(int[][] mat, int target) 
-    {
-      int i=0;
-      int j=mat[0].length-1;
-      while(i<mat.length && j>=0)
-      {
-        if(mat[i][j]==target) return true;
-        if(mat[i][j]<target) i++;
-        else if(mat[i][j]>target) j--;
-      }   
-    return false;
-    }   
+    public boolean isAnagram(String s, String t) {
+        char[] arr1=(t.toCharArray());
+        char[] arr2=(s.toCharArray());
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
+
+        return Arrays.equals(arr1,arr2);
+    }
 }
