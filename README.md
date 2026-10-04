@@ -116,6 +116,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -277,6 +278,7 @@
 | [0072-edit-distance](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
