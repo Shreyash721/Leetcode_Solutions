@@ -91,6 +91,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2284-sender-with-largest-word-count](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2284-sender-with-largest-word-count) |
+| [2404-most-frequent-even-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -133,6 +134,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2284-sender-with-largest-word-count](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2284-sender-with-largest-word-count) |
+| [2404-most-frequent-even-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
@@ -417,6 +419,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2284-sender-with-largest-word-count](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2284-sender-with-largest-word-count) |
+| [2404-most-frequent-even-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
