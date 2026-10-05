@@ -288,6 +288,7 @@
 | [0648-replace-words](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -337,6 +338,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -705,5 +707,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
