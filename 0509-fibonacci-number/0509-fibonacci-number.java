@@ -1,32 +1,13 @@
 class Solution {
+    private static int fibo(int n,int[] dp){
+        if(n<=1) return n;
+        if(dp[n]!=0) return dp[n];
+        int ans=fibo(n-2,dp)+fibo(n-1,dp);
+        dp[n]=ans;
+        return ans;
+    }
     public int fib(int n) {
-      
-        /*int a=0;
-        int b=1;
-        int c=0;
-       if(n==1){
-        return 1;
-       }
-       if(n==2){
-        return 1;
-       }
-       else{
-        for(int i=2;i<=n;i++){
-            c=a+b;
-            a=b;
-            b=c;
-            System.out.print(c);
-        }
-        return c;
-       }*/
-    
-    if(n==0) return 0;
-    if(n==1) return 1;
-
-    return fib(n-1)+fib(n-2);
-
-
-
+        int[] dp=new int[n+1];
+        return fibo(n,dp);
     }
 }
-        
