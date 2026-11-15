@@ -59,6 +59,7 @@
 | [0704-binary-search](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -409,6 +410,7 @@
 | [0392-is-subsequence](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
