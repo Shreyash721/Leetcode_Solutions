@@ -1,17 +1,15 @@
 class Solution {
-    public int climbStairs(int n) {
-       /* if(n==1) return 1;
-        if(n==2) return 2;
-        return climbStairs(n-1)+climbStairs(n-2);*/
-        int[] dp = new int[n + 1];
-        return solve(n, dp);
+    private static int solve(int i,int n,int[] dp){
+        if(i==n) return 1;
+        if(i>n) return 0;
+        if(dp[i]!=-1) return dp[i];
+        int f=solve(i+1,n,dp);
+        int l=solve(i+2,n,dp);
+        return dp[i]=f+l;
     }
-
-    private int solve(int n, int[] dp) {
-        if (n == 0 || n == 1) return 1;
-
-        if (dp[n] != 0) return dp[n];
-
-        return dp[n] = solve(n - 1, dp) + solve(n - 2, dp);
+    public int climbStairs(int n) {
+        int [] dp=new int[n+1];
+        Arrays.fill(dp,-1);
+       return solve(0,n,dp);
     }
 }
