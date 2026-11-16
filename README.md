@@ -323,6 +323,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2284-sender-with-largest-word-count) |
 | [2942-find-words-containing-character](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
@@ -491,6 +492,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Brainteaser
