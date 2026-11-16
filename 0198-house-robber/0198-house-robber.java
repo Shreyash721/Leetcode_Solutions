@@ -8,9 +8,12 @@ class Solution {
         dp[i]=ans;
         return ans;
     }
+
     public int rob(int[] arr) {
         int[] dp=new int[arr.length+1];
         Arrays.fill(dp,-1);
         return solve(0,arr,dp);
+
+       
     }
 }
