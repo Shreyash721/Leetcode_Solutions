@@ -327,6 +327,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2284-sender-with-largest-word-count) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
