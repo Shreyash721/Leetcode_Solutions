@@ -100,6 +100,7 @@
 | [2404-most-frequent-even-element](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2942-find-words-containing-character](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
@@ -283,6 +284,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## String
 |  |
@@ -355,6 +357,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3731-find-missing-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
