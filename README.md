@@ -328,6 +328,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2284-sender-with-largest-word-count) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
