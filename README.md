@@ -107,6 +107,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3668-restore-finishing-order](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -231,6 +232,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -466,6 +468,7 @@
 | [0204-count-primes](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
@@ -475,6 +478,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -761,6 +765,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Data Stream
 |  |
 | ------- |
