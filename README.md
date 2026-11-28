@@ -111,6 +111,7 @@
 | [3668-restore-finishing-order](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
@@ -292,6 +293,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -432,6 +434,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
