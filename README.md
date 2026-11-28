@@ -110,6 +110,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3668-restore-finishing-order](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
+| [3934-smallest-unique-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -786,4 +789,16 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shreyash721/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
